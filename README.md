@@ -22,6 +22,7 @@ Apply data visualization techniques to identify the patterns of the data.
 DEVELOPED BY: HARISH RAGAVENDRA S
 REGISTER NO: 212222230045
 ```
+```
 import pandas as pd
 df=pd.read_csv('/Superstore.csv',encoding='windows-1252')
 df
